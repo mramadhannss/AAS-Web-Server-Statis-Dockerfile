@@ -1,1 +1,1 @@
-# AAS-Web-Server-Statis-Dockerfile ![Screenshot 2024-12-06 223954](https://github.com/user-attachments/assets/959081d2-e9dc-41c8-a63b-04521f48a489)
+# AAS-Web-Server-Statis-Dockerfile ![Screenshot 2024-12-06 225211](https://github.com/user-attachments/assets/bc32c55e-6184-41cd-9a8a-528265852f4e)
